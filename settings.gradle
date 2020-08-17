@@ -1,1 +1,2 @@
+include ':vivo_push'
 include ':android'
