@@ -1,3 +1,3 @@
 include ':oppo-push'
 include ':vivo-push'
-include ':android'
+include ':mi-push-android'
